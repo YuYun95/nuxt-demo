@@ -1,12 +1,10 @@
 <template>
-  <div>
-    <h1>Users 默认子路由</h1>
-  </div>
+  <div>404 page</div>
 </template>
 
 <script>
 export default {
-  name: "index"
+  name: "NotFound"
 }
 </script>
 
